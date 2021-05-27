@@ -1,15 +1,23 @@
 [
-   {
+  {
     "id": "modelS",
     "title": "Model S",
     "description": "Order Online for Touchless Delivery",
     "image": "model-s.jpg",
-    "range": "390",
-    "time": "1.99",
-    "topSpeed": "200",
-    "peakPower": "1,020"
+    "range": "412",
+    "time": "3.1",
+    "topSpeed": "155",
+    "peakPower": "1,020",
+    "features": [
+      "Navigate on Autopilot",
+      "Auto Lane Change",
+      "Autopark",
+      "Summon",
+      "Full Self-Driving Computer",
+      "Traffic Light and Stop Sign Control"
+    ]
   },
-   {
+  {
     "id": "model3",
     "title": "Model 3",
     "description": "Order Online for Touchless Delivery",
@@ -17,9 +25,17 @@
     "range": "400",
     "time": "2.99",
     "topSpeed": "180",
-    "peakPower": "900"
+    "peakPower": "900",
+    "features": [
+      "Navigate on Autopilot",
+      "Auto Lane Change",
+      "Autopark",
+      "Summon",
+      "Full Self-Driving Computer",
+      "Traffic Light and Stop Sign Control"
+    ]
   },
-   {
+  {
     "id": "modelX",
     "title": "Model X",
     "description": "Order Online for Touchless Delivery",
@@ -27,9 +43,17 @@
     "range": "350",
     "time": "1.55",
     "topSpeed": "150",
-    "peakPower": "1,130"
+    "peakPower": "1,130",
+    "features": [
+      "Navigate on Autopilot",
+      "Auto Lane Change",
+      "Autopark",
+      "Summon",
+      "Full Self-Driving Computer",
+      "Traffic Light and Stop Sign Control"
+    ]
   },
-   {
+  {
     "id": "modelY",
     "title": "Model Y",
     "description": "Order Online for Touchless Delivery",
@@ -37,6 +61,14 @@
     "range": "410",
     "time": "2.05",
     "topSpeed": "190",
-    "peakPower": "1,040"
+    "peakPower": "1,040",
+    "features": [
+      "Navigate on Autopilot",
+      "Auto Lane Change",
+      "Autopark",
+      "Summon",
+      "Full Self-Driving Computer",
+      "Traffic Light and Stop Sign Control"
+    ]
   }
 ]
